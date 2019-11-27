@@ -1,0 +1,6 @@
+id=busybox
+name=BUSYBOX
+version=1.0
+versionCode=1
+author=Decao
+description=BUSYBOX for ARM64 by Decao
